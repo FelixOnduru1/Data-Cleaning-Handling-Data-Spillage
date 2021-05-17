@@ -1,0 +1,2 @@
+# Data-Cleaning-Handling-Data-Spillage
+ A situation may arise where the data you want to analyze has some of its columns spilling into others rendering the data unusable. In this project I do a step-by-step approach to handle such situations. By grouping, creating subsets, cleaning the subsets and concatenating the subsets, I achieve a final csv dataset that can be analyzed without the initial trouble.
